@@ -1,0 +1,10 @@
+1st hour : What is react, framework, library, Vite, CRA, React Basics 
+2nd hour : Understanding how JSX transpiles, Babel, How browser parses react code, Routing in reactjs
+3rd hour : Routing in react(react-router-dom), component, props
+4th hour : Understanding hooks, useState, useEffect etc
+5th hour : Project Start (CMS(CRUD), UI Designs )
+6th hour : Understanding APIS, mock api, Create operation
+7th hour : Read Operation, Delete Operation 
+8th hour : Edit operation, Publish code to github, understanding git and github 
+9th hour: Understanding VPS deploying project to vercel, netlify
+10th hour : what after this ? State management introduction : Redux, Redux toolkit
